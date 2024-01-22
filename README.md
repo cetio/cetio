@@ -1,3 +1,11 @@
+<img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
+
+# Hey there, I'm cet
+
+> discord: dlang.org
+
+---
+
 I am a hobbyist programmer primarily versed in systems languages and C#/.NET. I've been doing this little gig for about 6 years, and have as of late become very interested in low-level programming, reverse engineering, and the internals of C# (CoreCLR).
 
 - **Languages:** C#, D, VB.NET, Java, C, C++
