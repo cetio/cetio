@@ -6,17 +6,13 @@
 
 ---
 
-I am a hobbyist programmer primarily versed in systems languages and C#/.NET. I've been doing this little gig for about 6 years, and have as of late become very interested in low-level programming, reverse engineering, and the internals of C# (CoreCLR).
+I am a systems level programmer of 6 years primarily versed in the .NET ecosystem, D, and C. More recently my work has focused on libraries, reverse analysis, and internal systems frameworks, such as the .NET runtime CoreCLR and related works.
 
 - **Languages:** C#, D, VB.NET, Java, C, C++
-- **Technologies:** .NET, CoreCLR, x86, Z80, VEX
-- **Web:** HTML, CSS (a wee bit)
-- **Cryptography:** see [digests](https://github.com/cetio/tern/tree/main/source/tern/digest)
+- **Technologies:** .NET, x86, Z80, VEX
+- **Web:** HTML, CSS, JS
+- **Cryptography:** see [digests](https://github.com/cetio/tern/tree/main/source/tern/digest), my implementations, or challenge events.
 
-If you find my work interesting, consider:
-
-- 🚀 Contribute Code
-- 🐛 Submit Bug Reports
-- ⭐ Star the Repository
+If you find my work interesting, please consider contributing or starring my work, as it boosts my morale greatly and helps me develop my passions.
 
 [Avatar - Mark Hewitson Photography](https://markhewitson.photography/cat-portraits/)
