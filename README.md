@@ -6,7 +6,7 @@
 
 ---
 
-I am a systems level programmer of 6 years primarily versed in the .NET ecosystem, D, and C. More recently my work has focused on libraries, reverse analysis, and internal systems frameworks, such as the .NET runtime CoreCLR and related works.
+I am a systems level programmer of 6 years, primarily versed in the .NET ecosystem, D, and C. More recently my work has focused on libraries, reverse analysis, and internal systems frameworks, such as the .NET runtime CoreCLR and related works.
 
 - **Languages:** C#, D, VB.NET, Java, C, C++
 - **Technologies:** .NET, x86, Z80, VEX
