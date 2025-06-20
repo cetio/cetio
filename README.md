@@ -18,3 +18,5 @@ If you find my work interesting, consider:
 - 🚀 Contribute Code
 - 🐛 Submit Bug Reports
 - ⭐ Star the Repository
+
+[Avatar - Mark Hewitson Photography](https://markhewitson.photography/cat-portraits/)
