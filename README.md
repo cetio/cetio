@@ -6,10 +6,10 @@
 
 ---
 
-I am a systems level programmer of 6 years, primarily versed in the .NET ecosystem, D, and C. More recently my work has focused on libraries, reverse analysis, and internal systems frameworks, such as the .NET runtime CoreCLR and related works.
+I am a systems level programmer of 7 years, primarily versed in the .NET ecosystem, D, and C. I do a lot of stuff...
 
-- **Languages:** C#, D, VB.NET, Java, C, C++
-- **Technologies:** .NET, x86, Z80, VEX
+- **Languages:** C#, D, VB.NET, Ruby, C, C++
+- **Technologies:** .NET, x86, Z80, VEX, GTK
 - **Web:** HTML, CSS, JS
 - **Cryptography:** see [digests](https://github.com/cetio/tern/tree/main/source/tern/digest), my implementations, or challenge events.
 
