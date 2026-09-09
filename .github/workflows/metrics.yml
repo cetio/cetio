@@ -27,7 +27,7 @@ jobs:
           # Options
           user: cetio
           template: classic
-          base: header, activity, community, repositories, metadata, licenses, languages
+          base: header, activity, community, metadata, licenses, languages
           base_hireable: yes
           base_indepth: yes
           config_octicon: yes
