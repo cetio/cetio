@@ -1,12 +1,29 @@
-<img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
+# Benjamin Johnston
 
-### Welcome! I'm Ben.
+[![Portfolio](https://img.shields.io/badge/Portfolio-cetio.github.io-b03931?style=flat-square)](https://cetio.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bejaunst-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bejaunst)
+[![Email](https://img.shields.io/badge/Email-bejaunst-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bejaunst@gmail.com)
 
-![portfolio](https://img.shields.io/badge/portfolio-crimson?link=https%3A%2F%2Fcetio.github.io)
-![linkedin: bejaunst](https://img.shields.io/badge/linkedin-bejaunst-blue.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIGNsYXNzPSJiaSBiaS1saW5rZWRpbiIgdmlld0JveD0iMCAwIDE2IDE2Ij4KICA8cGF0aCBkPSJNMCAxLjE0NkMwIC41MTMuNTI2IDAgMS4xNzUgMGgxMy42NUMxNS40NzQgMCAxNiAuNTEzIDE2IDEuMTQ2djEzLjcwOGMwIC42MzMtLjUyNiAxLjE0Ni0xLjE3NSAxLjE0NkgxLjE3NUMuNTI2IDE2IDAgMTUuNDg3IDAgMTQuODU0em00Ljk0MyAxMi4yNDhWNi4xNjlIMi41NDJ2Ny4yMjV6bS0xLjItOC4yMTJjLjgzNyAwIDEuMzU4LS41NTQgMS4zNTgtMS4yNDgtLjAxNS0uNzA5LS41Mi0xLjI0OC0xLjM0Mi0xLjI0OFMyLjQgMy4yMjYgMi40IDMuOTM0YzAgLjY5NC41MjEgMS4yNDggMS4zMjcgMS4yNDh6bTQuOTA4IDguMjEyVjkuMzU5YzAtLjIxNi4wMTYtLjQzMi4wOC0uNTg2LjE3My0uNDMxLjU2OC0uODc4IDEuMjMyLS44NzguODY5IDAgMS4yMTYuNjYyIDEuMjE2IDEuNjM0djMuODY1aDIuNDAxVjkuMjVjMC0yLjIyLTEuMTg0LTMuMjUyLTIuNzY0LTMuMjUyLTEuMjc0IDAtMS44NDUuNy0yLjE2NSAxLjE5M3YuMDI1aC0uMDE2bC4wMTYtLjAyNVY2LjE2OWgtMi40Yy4wMy42NzggMCA3LjIyNSAwIDcuMjI1eiIvPgo8L3N2Zz4=&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbejaunst)
-![discord: dlang.org](https://img.shields.io/badge/discord-dlang.org-purple?logo=discord&logoColor=white)
+<img align="right" src="./github-metrics.svg" alt="GitHub activity, community, and language metrics" width="400">
 
-I specialize in systems engineering, workflow automation, and tooling. I build automation frameworks, reverse-engineer platforms into clean SDKs, and craft robust solutions to difficult problems.
+I'm a systems engineer working on browser automation, AI evaluation, and typed developer tooling. I build automation frameworks, reverse-engineer platforms into SDKs, and turn repetitive workflows into reproducible software.
 
-If you find my work interesting, please consider contributing or starring my work, as it boosts my morale greatly and helps me develop my passions.
+My primary languages are D, C, C++, C#, Python, Ruby, and JavaScript. I usually work on systems software, API clients, RPA, and low-level integrations.
 
+## Projects
+
+- [Intuit](https://github.com/cetio/intuit) — D SDK for LLMs and embedding models, with structured output, tool calling, and SSE streaming.
+- [Chemica](https://github.com/cetio/chemica) — GTK application for chemical data, 3D molecular visualization, and AI-assisted synthesis.
+- [Akashi](https://github.com/cetio/akashi) — Chemistry-aware data retrieval, source resolution, and text parsing.
+- [Selenium](https://github.com/cetio/selenium) — Native D client for the W3C WebDriver protocol and Selenium Grid.
+- [Multidasm](https://github.com/cetio/multidasm) — Compile-time assembler targeting CIL, x86, x86_64, and MIPS.
+- **AutoHandshake!** — Selenium-based RPA that reduced annotation and triage effort by 95% across 400+ contractor hours.
+
+## Writing
+
+- [Building a WebDriver client](https://cetio.github.io/articles/selenium.html)
+- [Semantic retrieval](https://cetio.github.io/articles/semantic-retrieval.html)
+- [Designing in advance](https://cetio.github.io/articles/designing-in-advance.html)
+- [Syscall hooks](https://cetio.github.io/articles/syscall-hooks.html)
+
+More projects and experience are available on my [portfolio](https://cetio.github.io).
